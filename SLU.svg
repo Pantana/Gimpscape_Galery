@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="208.62mm"
+   height="208.62mm"
+   viewBox="0 0 208.62 208.62"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SLU.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4663">
+      <stop
+         style="stop-color:#00aad4;stop-opacity:1"
+         offset="0"
+         id="stop4659" />
+      <stop
+         style="stop-color:#006680;stop-opacity:1"
+         offset="1"
+         id="stop4661" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4682">
+      <stop
+         style="stop-color:#ffeeaa;stop-opacity:1"
+         offset="0"
+         id="stop4678" />
+      <stop
+         style="stop-color:#d4aa00;stop-opacity:1"
+         offset="1"
+         id="stop4680" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4666">
+      <stop
+         style="stop-color:#22241c;stop-opacity:1;"
+         offset="0"
+         id="stop4662" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4664" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4663"
+       cx="4665.3076"
+       cy="424.27905"
+       fx="4665.3076"
+       fy="424.27905"
+       r="159.26308"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1244265,-0.03470315,0.00573057,0.68107086,-14570.331,297.21578)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4673"
+       cx="4665.3076"
+       cy="424.43729"
+       fx="4665.3076"
+       fy="424.43729"
+       r="126.26865"
+       gradientTransform="matrix(3.2525178,0.07759595,-0.0129914,0.54454884,-10494.664,-168.69951)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4689"
+       cx="-57.811363"
+       cy="113.71024"
+       fx="-57.811363"
+       fy="113.71024"
+       r="8.9490356"
+       gradientTransform="matrix(12.408635,-0.40941022,0.06030587,1.8277845,652.7102,-116.83468)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4663"
+       id="radialGradient4667"
+       cx="7734.9746"
+       cy="-297.47992"
+       fx="7734.9746"
+       fy="-297.47992"
+       r="1500"
+       gradientTransform="matrix(1.0786175,0.02452465,-0.01194349,0.52528659,-613.74464,-352.81184)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4666"
+       id="radialGradient4769"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1580603,0.19516252,-0.02425004,0.14389544,-574.29872,-944.4442)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4771"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.92080858,-0.6776959,0.08649654,-0.11752579,8912.7022,3313.0526)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4809"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(12.408635,-0.40941022,0.06030587,1.8277845,652.7102,-116.83468)"
+       cx="-57.811363"
+       cy="113.71024"
+       fx="-57.811363"
+       fy="113.71024"
+       r="8.9490356" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4811"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(12.408635,-0.40941022,0.06030587,1.8277845,652.7102,-116.83468)"
+       cx="-57.811363"
+       cy="113.71024"
+       fx="-57.811363"
+       fy="113.71024"
+       r="8.9490356" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4666"
+       id="radialGradient4928"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1580603,0.19516252,-0.02425004,0.14389544,-574.29872,-944.4442)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4930"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.92080858,-0.6776959,0.08649654,-0.11752579,8912.7022,3313.0526)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4666"
+       id="radialGradient4940"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1580603,0.19516252,-0.02425004,0.14389544,-574.29872,-944.4442)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4682"
+       id="radialGradient4942"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.92080858,-0.6776959,0.08649654,-0.11752579,8912.7022,3313.0526)"
+       cx="4679.0664"
+       cy="587.18158"
+       fx="4679.0664"
+       fy="587.18158"
+       r="1488.25" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6977718"
+     inkscape:cx="83.160775"
+     inkscape:cy="634.71409"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4272"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="3176.7482,94.479922"
+       orientation="0,1"
+       id="guide4719"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6175.1466,337.61508"
+       orientation="1,0"
+       id="guide4727"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6112.0544,60.374407"
+       orientation="0,1"
+       id="guide4729"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6234.9744,391.24703"
+       orientation="1,0"
+       id="guide4851"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="325.35912,33.852395"
+       orientation="0,1"
+       id="guide4353" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-88.380001)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5092"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5094"><rect
+           id="rect5096"
+           width="225.71428"
+           height="400"
+           x="668.57141"
+           y="1176.8054" /></flowRegion><flowPara
+         id="flowPara5098" /></flowRoot>    <rect
+       y="-797.47992"
+       x="3176.7483"
+       height="1000"
+       width="3000"
+       id="rect4560"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.03165817;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <g
+       id="g4926"
+       transform="translate(9.939803e-5,-1034.1055)">
+      <g
+         id="g4924"
+         transform="translate(-1.6015156,1034.1055)">
+        <path
+           sodipodi:nodetypes="csssscccc"
+           style="fill:url(#radialGradient4928);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 3176.7481,-94.247 1745.5111,4.172231 c 81.3048,0.19434 51.5883,2.892521 0.053,14.6285 l -203.9103,46.435898 c -76.6276,17.450176 -112.0043,20.2915302 11.643,19.4771995 l 1444.6167,-9.5141285 -3e-4,200.9855 -2997.9132,0 z"
+           id="path4920"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4922"
+           d="m 3176.7482,-72.350376 1676.429,-9.286071 c 78.9942,-0.437564 43.8326,5.374677 0.053,14.6285 l -219.687,46.435898 c -78.7936,16.6548389 -75.6429,22.9618376 -0.6278,22.9831319 l 1543.8329,0.4382414 -3e-4,199.6707757 -2999.9998,1.31472 z"
+           style="fill:url(#radialGradient4930);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="csssscccc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33597934"
+       x="3445.7849"
+       y="-125.19491"
+       id="text4532"><tspan
+         sodipodi:role="line"
+         id="tspan4530"
+         x="3445.7849"
+         y="-125.19491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.35450745px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.33597934">Kontraktor, Developer, Supplier &amp; Mechanical Electrical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="3750.2239"
+       y="155.25668"
+       id="text4536"><tspan
+         sodipodi:role="line"
+         id="tspan4534"
+         x="3750.2239"
+         y="155.25668"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.23634338px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers">Telp: 05618174636 Email: sherlindolestariutama@gmail.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="3682.4258"
+       y="80.134369"
+       id="text4540"><tspan
+         sodipodi:role="line"
+         id="tspan4538"
+         x="3682.4258"
+         y="80.134369"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.29542542px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers">Jl. Hos. Cokroaminoto, Komp. Pasar Mawar Blok. 13</tspan></text>
+    <g
+       id="g4248">
+      <rect
+         ry="68.741158"
+         y="-775.44318"
+         x="4513.5146"
+         height="321.55621"
+         width="321.55621"
+         id="rect4542"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.89103031;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4544"
+         d="m 4807.3937,-653.90771 -91.5339,0 c -33.4019,-49.73991 -67.8776,-44.18984 -84.3081,-19.60206 l 176.5106,98.88359 -55.6436,95.20173 -156.0811,0.51996 -55.8138,-95.72169 91.0279,0 c 17.7269,34.67079 67.6765,55.65011 84.3081,15.84486 l -174.9931,-95.12639 55.1636,-96.18261 156.1047,0.30721 z"
+         style="fill:#ffffff;stroke:none;stroke-width:1.21681678px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="matrix(4.9812902,0,0,4.9812902,4962.1741,-1161.5683)"
+         id="g4554"
+         style="fill:#000000;stroke:#ffffff;stroke-width:3.19014359;stroke-miterlimit:4;stroke-dasharray:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           x="-62.861591"
+           y="113.23414"
+           id="text4548"
+           transform="scale(1.0540603,0.94871233)"><tspan
+             sodipodi:role="line"
+             id="tspan4546"
+             x="-62.861591"
+             y="113.23414"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">L</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           x="-63.559868"
+           y="135.3475"
+           id="text4552"
+           transform="scale(1.0540603,0.94871233)"><tspan
+             sodipodi:role="line"
+             id="tspan4550"
+             x="-63.559868"
+             y="135.3475"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">U</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.059402,0,0,1.3631065,3193.0821,-1388.5066)"
+       id="g4572"
+       style="fill:#ffffff">
+      <text
+         id="text4566"
+         y="844.21228"
+         x="28.216473"
+         style="font-style:normal;font-weight:normal;font-size:171.43096924px;line-height:44.64347839px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.78573906"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:1.78573906"
+           y="844.21228"
+           x="28.216473"
+           id="tspan4564"
+           sodipodi:role="line">PT. SHERLINDO LESTARI UTAMA</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4731"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4733"><rect
+           id="rect4735"
+           width="8453.9873"
+           height="1563.5902"
+           x="13012.251"
+           y="247.96924" /></flowRegion><flowPara
+         id="flowPara4737" /></flowRoot>    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.03165817;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4585"
+       width="3000"
+       height="1000"
+       x="3173.8186"
+       y="236.6256" />
+    <g
+       id="g4918">
+      <g
+         transform="translate(-1.6015156,1034.1055)"
+         id="g4767">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4763"
+           d="m 3176.7481,-94.247 1745.5111,4.172231 c 81.3048,0.19434 51.5883,2.892521 0.053,14.6285 l -203.9103,46.435898 c -76.6276,17.450176 -112.0043,20.2915302 11.643,19.4771995 l 1444.6167,-9.5141285 -3e-4,200.9855 -2997.9132,0 z"
+           style="fill:url(#radialGradient4769);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="csssscccc" />
+        <path
+           sodipodi:nodetypes="csssscccc"
+           style="fill:url(#radialGradient4771);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 3176.7482,-72.350376 1676.429,-9.286071 c 78.9942,-0.437564 43.8326,5.374677 0.053,14.6285 l -219.687,46.435898 c -78.7936,16.6548389 -75.6429,22.9618376 -0.6278,22.9831319 l 1543.8329,0.4382414 -3e-4,199.6707757 -2999.9998,1.31472 z"
+           id="path4765"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       id="text4597"
+       y="894.8869"
+       x="3494.3933"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33597934"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.35450745px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.33597934"
+         y="894.8869"
+         x="3494.3933"
+         id="tspan4595"
+         sodipodi:role="line">Kontraktor, Developer, Supplier &amp; Mechanical Electrical</tspan></text>
+    <text
+       id="text4601"
+       y="1189.3622"
+       x="3748.6223"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.23634338px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="1189.3622"
+         x="3748.6223"
+         id="tspan4599"
+         sodipodi:role="line">Telp: 05618174636 Email: sherlindolestariutama@gmail.com</tspan></text>
+    <text
+       id="text4605"
+       y="1114.2399"
+       x="3679.4961"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.29542542px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="1114.2399"
+         x="3679.4961"
+         id="tspan4603"
+         sodipodi:role="line">Jl. Hos. Cokroaminoto, Komp. Pasar Mawar Blok. 13</tspan></text>
+    <g
+       id="g4257">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:url(#radialGradient4663);stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect4607"
+         width="303.52615"
+         height="303.52615"
+         x="4522.0557"
+         y="272.51596"
+         ry="64.886749" />
+      <path
+         style="fill:url(#radialGradient4673);fill-opacity:1;stroke:none;stroke-width:1.1485883px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4799.4562,387.23678 -86.4015,0 c -31.529,-46.95093 -64.0716,-41.71206 -79.5808,-18.50295 l 166.6134,93.33906 -52.5236,89.86365 -147.3294,0.4908 -52.6843,-90.35445 85.9239,0 c 16.7329,32.72676 63.8818,52.52974 79.5808,14.95642 l -165.181,-89.79253 52.0705,-90.78953 147.3517,0.28999 z"
+         id="path4609"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <g
+         style="fill:#000000;stroke:url(#radialGradient4689);stroke-width:3.19014359;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g4619"
+         transform="matrix(4.7019828,0,0,4.7019828,4945.5579,-91.958487)">
+        <text
+           transform="scale(1.0540603,0.94871233)"
+           id="text4613"
+           y="113.23414"
+           x="-62.861591"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient4809);stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:url(#radialGradient4809);stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+             y="113.23414"
+             x="-62.861591"
+             id="tspan4611"
+             sodipodi:role="line">L</tspan></text>
+        <text
+           transform="scale(1.0540603,0.94871233)"
+           id="text4617"
+           y="135.3475"
+           x="-63.559868"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient4811);stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:url(#radialGradient4811);stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+             y="135.3475"
+             x="-63.559868"
+             id="tspan4615"
+             sodipodi:role="line">U</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:url(#radialGradient4667);fill-opacity:1;stroke:none;stroke-width:20.03165817;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4610"
+       width="3000"
+       height="1000"
+       x="6232.8877"
+       y="-819.37646" />
+    <g
+       transform="translate(3059.8277,-1035.4202)"
+       id="g4938">
+      <g
+         transform="translate(-1.6015156,1034.1055)"
+         id="g4936">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4932"
+           d="m 3176.7481,-94.247 1745.5111,4.172231 c 81.3048,0.19434 51.5883,2.892521 0.053,14.6285 l -203.9103,46.435898 c -76.6276,17.450176 -112.0043,20.2915302 11.643,19.4771995 l 1444.6167,-9.5141285 -3e-4,200.9855 -2997.9132,0 z"
+           style="fill:url(#radialGradient4940);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="csssscccc" />
+        <path
+           sodipodi:nodetypes="csssscccc"
+           style="fill:url(#radialGradient4942);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 3176.7482,-72.350376 1676.429,-9.286071 c 78.9942,-0.437564 43.8326,5.374677 0.053,14.6285 l -219.687,46.435898 c -78.7936,16.6548389 -75.6429,22.9618376 -0.6278,22.9831319 l 1543.8329,0.4382414 -3e-4,199.6707757 -2999.9998,1.31472 z"
+           id="path4934"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       id="text4626"
+       y="154.51775"
+       x="6806.3633"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.23634338px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="154.51775"
+         x="6806.3633"
+         id="tspan4624"
+         sodipodi:role="line">Telp: 05618174636 Email: sherlindolestariutama@gmail.com</tspan></text>
+    <text
+       id="text4630"
+       y="79.395439"
+       x="6738.5654"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.29542542px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="79.395439"
+         x="6738.5654"
+         id="tspan4628"
+         sodipodi:role="line">Jl. Hos. Cokroaminoto, Komp. Pasar Mawar Blok. 13</tspan></text>
+    <g
+       style="fill:#ffffff"
+       id="g4757"
+       transform="matrix(1.059402,0,0,1.6121667,3192.6078,-557.97372)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:171.43096924px;line-height:44.64347839px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.78573906"
+         x="28.216473"
+         y="844.21228"
+         id="text4755"><tspan
+           sodipodi:role="line"
+           id="tspan4753"
+           x="28.216473"
+           y="844.21228"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:1.78573906">PT. SHERLINDO LESTARI UTAMA</tspan></text>
+    </g>
+    <text
+       id="text4785"
+       y="-157.00784"
+       x="6553.4624"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33597934"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.35450745px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.33597934"
+         y="-157.00784"
+         x="6553.4624"
+         id="tspan4783"
+         sodipodi:role="line">Kontraktor, Developer, Supplier &amp; Mechanical Electrical</tspan></text>
+    <rect
+       ry="68.741158"
+       y="-807.2561"
+       x="7572.1094"
+       height="321.55621"
+       width="321.55621"
+       id="rect4787"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.89103031;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4789"
+       d="m 7865.9882,-685.72064 -91.5339,0 c -33.4019,-49.7399 -67.8776,-44.1898 -84.3081,-19.602 l 176.5106,98.8835 -55.6436,95.2018 -156.0811,0.5199 -55.8138,-95.7217 91.0279,0 c 17.7269,34.6708 67.6765,55.6502 84.3081,15.8449 l -174.9931,-95.1264 55.1636,-96.1826 156.1047,0.3072 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1.21681678px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="matrix(4.9812902,0,0,4.9812902,8020.7686,-1193.3812)"
+       id="g4799"
+       style="fill:#0088aa;stroke:#ffffff;stroke-width:3.19014359;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:1;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-62.861591"
+         y="113.23414"
+         id="text4793"
+         transform="scale(1.0540603,0.94871233)"><tspan
+           sodipodi:role="line"
+           id="tspan4791"
+           x="-62.861591"
+           y="113.23414"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0088aa;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">L</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#0088aa;fill-opacity:1;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-63.559868"
+         y="135.3475"
+         id="text4797"
+         transform="scale(1.0540603,0.94871233)"><tspan
+           sodipodi:role="line"
+           id="tspan4795"
+           x="-63.559868"
+           y="135.3475"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0088aa;stroke:#ffffff;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">U</tspan></text>
+    </g>
+    <g
+       style="fill:#ffffff"
+       id="g4805"
+       transform="matrix(1.059402,0,0,1.3631065,6251.6766,-1420.3195)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:171.43096924px;line-height:44.64347839px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.78573906"
+         x="28.216473"
+         y="844.21228"
+         id="text4803"><tspan
+           sodipodi:role="line"
+           id="tspan4801"
+           x="28.216473"
+           y="844.21228"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:1.78573906">PT. SHERLINDO LESTARI UTAMA</tspan></text>
+    </g>
+    <rect
+       y="236.6256"
+       x="6235.4644"
+       height="997.63"
+       width="2997.6299"
+       id="rect4813"
+       style="opacity:1;fill:#000055;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text4817"
+       y="823.98676"
+       x="6350.7544"
+       style="font-style:normal;font-weight:normal;font-size:174.15777588px;line-height:45.35358429px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.81414342"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:1.81414342"
+         y="823.98676"
+         x="6350.7544"
+         id="tspan4815"
+         sodipodi:role="line">PT. SHERLINDO LESTARI UTAMA</tspan></text>
+    <text
+       id="text4821"
+       y="963.45471"
+       x="6512.2935"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33597934"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.35450745px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.33597934"
+         y="963.45471"
+         x="6512.2935"
+         id="tspan4819"
+         sodipodi:role="line">Kontraktor, Developer, Supplier &amp; Mechanical Electrical</tspan></text>
+    <text
+       id="text4825"
+       y="1174.5009"
+       x="6827.5078"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.23634338px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="1174.5009"
+         x="6827.5078"
+         id="tspan4823"
+         sodipodi:role="line">Telp: 05618174636 Email: sherlindolestariutama@gmail.com</tspan></text>
+    <text
+       id="text4829"
+       y="1099.3785"
+       x="6797.0645"
+       style="font-style:normal;font-weight:normal;font-size:128.25402832px;line-height:33.39948654px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.29542542px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke:none;stroke-width:9.10436344;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         y="1099.3785"
+         x="6797.0645"
+         id="tspan4827"
+         sodipodi:role="line">Jl. Hos. Cokroaminoto, Komp. Pasar Mawar Blok. 13</tspan></text>
+    <rect
+       ry="68.844826"
+       y="313.7561"
+       x="7530.6973"
+       height="322.0412"
+       width="322.0412"
+       id="rect4831"
+       style="opacity:1;fill:#000055;fill-opacity:1;stroke:#ffffff;stroke-width:29.99999809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4833"
+       d="m 7825.0192,435.47482 -91.6719,0 c -33.4523,-49.81493 -67.9799,-44.25649 -84.4352,-19.63163 l 176.7767,99.03273 -55.7274,95.3453 -156.3165,0.52074 -55.8981,-95.86604 91.1653,0 c 17.7536,34.72308 67.7785,55.73403 84.4352,15.86875 l -175.257,-95.26985 55.2468,-96.32767 156.3401,0.30768 z"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.21865189px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="matrix(4.9888026,0,0,4.9888026,7980.033,-72.95129)"
+       id="g4843"
+       style="fill:#000055;stroke:#ffffff">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000055;fill-opacity:1;stroke:#ffffff;stroke-width:2.73743939;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-62.861591"
+         y="113.23414"
+         id="text4837"
+         transform="scale(1.0540603,0.94871233)"><tspan
+           sodipodi:role="line"
+           id="tspan4835"
+           x="-62.861591"
+           y="113.23414"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000055;stroke:#ffffff;stroke-width:2.73743939;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">L</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000055;fill-opacity:1;stroke:#ffffff;stroke-width:2.73743939;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-63.559868"
+         y="135.3475"
+         id="text4841"
+         transform="scale(1.0540603,0.94871233)"><tspan
+           sodipodi:role="line"
+           id="tspan4839"
+           x="-63.559868"
+           y="135.3475"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000055;stroke:#ffffff;stroke-width:2.73743939;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">U</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:19.20514488;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4849"
+       width="2935.3064"
+       height="939.44037"
+       x="6264.4346"
+       y="263.52255" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6235.4641,990.80402 2997.6301,0"
+       id="path4853"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4855"
+       d="m 6235.4641,1012.1222 2997.6301,0"
+       style="fill:none;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:9.82431412;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 47.457278,93.279652 113.800052,0 c 23.54382,0 42.49786,18.954048 42.49786,42.497858 l 0,113.80005 c 0,23.54381 -18.95404,42.49785 -42.49786,42.49785 l -113.800052,0 c -23.543812,0 -42.4978559,-18.95404 -42.4978559,-42.49785 l 0,-113.80005 c 0,-23.54381 18.9540439,-42.497858 42.4978559,-42.497858 z"
+       id="rect4268"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4270"
+       d="m 186.64428,168.41658 -56.58903,0 C 109.40519,137.66587 88.091265,141.09705 77.933434,156.29797 l 109.124186,61.13282 -34.40055,58.85658 -96.494057,0.32148 -34.505777,-59.17806 56.276198,0 c 10.959305,21.43455 41.839656,34.40458 52.121816,9.79574 l -108.186022,-58.80995 34.103803,-59.46305 96.508649,0.18998 z"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:1.21681678px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(3.079584,0,0,3.079584,283.60699,-232.9436)"
+       id="g4272"
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:3.19014359;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.0540603,0,0,0.94871233,-0.41330459,28.41587)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="text4274">
+        <path
+           d="m -61.226311,113.23414 0,-16.818318 3.521223,0 0,14.096828 9.02388,0 0,2.72149 -12.545103,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke:#000000;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="path4359"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.0540603,0,0,0.94871233,-0.41330459,28.41587)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44564438px;line-height:6.36605263px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="text4278">
+        <path
+           d="m -54.929887,135.58623 q -3.473478,0 -5.323612,-1.69496 -1.838198,-1.69496 -1.838198,-4.84616 l 0,-10.51592 3.521223,0 0,10.24138 q 0,1.99338 0.942972,3.03184 0.954908,1.02652 2.793106,1.02652 1.885943,0 2.900533,-1.07427 1.01459,-1.08621 1.01459,-3.10345 l 0,-10.12202 3.521223,0 0,10.33688 q 0,3.19894 -1.981434,4.96552 -1.969498,1.75464 -5.550403,1.75464 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke:#000000;stroke-width:3.19014359;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="path4356"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
